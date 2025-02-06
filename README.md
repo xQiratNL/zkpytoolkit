@@ -1,3 +1,9 @@
+# PROJECT MIGRATION
+
+> **Note:** This project has been moved to [ZKPyC](https://github.com/zkpyc/zkpyc), where it is being maintained as the crate zkpyc-python
+
+---
+
 # ZKPyToolkit: Python Zero-Knowledge Proof Toolkit
 
 ## Overview
